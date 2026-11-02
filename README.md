@@ -10,4 +10,4 @@ R code accompanying the manuscript (platelet-based diagnostic model).
 
 ## Notes
 
-Scripts load `.rdata` data files from the same directory; data files are not included in this repository.
+Scripts load `.rdata` data files from the same directory; `model_data0521.rdata` (model input data) is included, other data files are not.
